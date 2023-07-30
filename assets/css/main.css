@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 150px;
-			height: 150px;
+			width: 1250px;
+			height: 125px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 150px;
-				height: 150px;
+				width: 125px;
+				height: 125px;
 			}
 
 		.image.fit {
@@ -2247,8 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: #030807;
+				/*background-image: url("../../images/banner.jpg");*/
 			}
 
 			#main > section.two {
@@ -2588,7 +2588,7 @@ input, select, textarea {
 			h2 {
 				font-size: 1.5em;
 				letter-spacing: 0;
-				font-weight: 300;
+				font-weight: 700;
 			}
 
 			.container {
